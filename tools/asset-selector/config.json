@@ -1,0 +1,11 @@
+{
+    "aemTierType": [
+        "delivery"
+    ],
+    "copyMode": [
+        {
+            "mimeType": "image/*",
+            "value": "reference"
+        }
+    ]
+}
